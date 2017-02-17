@@ -1,4 +1,5 @@
 
+###### Description of the contents of file to_upload.zip:#######
 
 Each folder contains data for the two dimensional Ising model of size V=LxL, L=10,20,30,40,60
 The Xtrain.txt files contain the training data for the square lattice Ising model while
